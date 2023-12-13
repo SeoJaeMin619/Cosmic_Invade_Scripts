@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c34725376da8de41945ca15521408b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilemap: {instanceID: 0}
+  - destroyTiles: {instanceID: 0}
+  - woodPrefab: {instanceID: 0}
+  - silverPrefab: {instanceID: 0}
+  - goldPrefab: {fileID: 3440547695729954446, guid: d290703809e82694b8380763015c2125, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
